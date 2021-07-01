@@ -1,10 +1,14 @@
-### Howdy! :cowboy_hat_face:
+# Howdy! :cowboy_hat_face:
 
-My name is Will Torres (he/him). I am a senior Computer Science student at Adelphi University with a passion for creating software, solving problems, and education!
+My name is Will Torres (he/him). 
+
+I am a senior Computer Science student at Adelphi University with a passion for creating software, solving problems, and education!
 
 ## How to Reach Me:
 LinkedIn: [torreswill](https://www.linkedin.com/in/torreswill)
+
 Instagram: @torrwill
+
 My CV: [link](https://github.com/torrwill/torrwill/blob/main/resume/Will-Torres-CV.pdf)
 
 ## Projects
