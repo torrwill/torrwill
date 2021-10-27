@@ -2,25 +2,24 @@
 
 My name is Will Torres (he/him). 
 
-I am a senior Computer Science student at Adelphi University with a passion for creating software, solving problems, and education!
+I am a senior Computer Science student at Adelphi University with a passion for creating software and solving complex problems!
 
 ## How to Reach Me:
 LinkedIn: [torreswill](https://www.linkedin.com/in/torreswill)
 
 Instagram: @torrwill
 
-My CV: [link](https://github.com/torrwill/torrwill/blob/main/resume/Will-Torres-CV.pdf)
+My CV: [link](https://github.com/torrwill/torrwill/blob/main/resume/Will-Torres-CV.pdf) *(Last Updated -- 07/1/21)*
 
 ## Projects
-- I am currently working with Dr. Qin (Associate Professor, UTC) on a COVID-19 cointegration analysis project, as a part of a Research Experience for Undergraduates (REU) program.
-- I am currently learning the ins and outs of advanced R and Python programming along with the intricacies of JavaScript applications (Node, React, Angular).
+- I am starting a Thesis focusing on Music Information Retrieval (Genre Classification) with Dr. Anil Venkatesh (Associate Professor, Adelphi University).
+- Over the summer, I worked with Dr. Qin (Associate Professor, UTC) on a COVID-19 cointegration analysis project, as a part of a Research Experience for Undergraduates (REU) program.
+- I have previously made an Agent-based Model of honeybee overwintering, a mental health related mobile application, and used Java and Python to explore Machine Learning.
 
 ## My Interests
 - Software Engineering :desktop_computer:
 - Data Science / Computational Sciences :chart: :dna: :microscope:
 - Web and Mobile Development :iphone:
-- Virtual Reality / Augmented Reality / Human-Computer Interaction :video_game:
-- Working with Python :snake:
 
 ## Fun Facts: 
 - I am a multi-instrumentalist :guitar: :drum: :musical_keyboard:
