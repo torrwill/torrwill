@@ -2,19 +2,23 @@
 
 My name is Will Torres (he/him). 
 
-I am a senior Computer Science student at Adelphi University with a passion for creating software and solving complex problems!
+I am a 4th year undergraduate Computer Science student at Adelphi University with a passion for creating software and solving complex problems!
 
 ## How to Reach Me:
 LinkedIn: [torreswill](https://www.linkedin.com/in/torreswill)
 
 Instagram: @torrwill
 
-My CV: [link](https://github.com/torrwill/torrwill/blob/main/resume/Will-Torres-CV.pdf) *(Last Updated -- 07/1/21)*
+My Resume(s): [Data Science](https://github.com/torrwill/torrwill/blob/main/resume/Will%20Torres%2C%20Resume.pdf), [Software Engineering](https://github.com/torrwill/torrwill/blob/main/resume/Will%20Torres%20Resume.pdf), [CV](https://github.com/torrwill/torrwill/blob/main/resume/Will-Torres-CV.pdf) *(Last Updated -- 01/16/22)*
 
-## Projects
-- I am starting a Thesis focusing on Music Information Retrieval (Genre Classification) with Dr. Anil Venkatesh (Associate Professor, Adelphi University).
-- Over the summer, I worked with Dr. Qin (Associate Professor, UTC) on a COVID-19 cointegration analysis project, as a part of a Research Experience for Undergraduates (REU) program.
-- I have previously made an Agent-based Model of honeybee overwintering, a mental health related mobile application, and used Java and Python to explore Machine Learning.
+## Research Projects
+- I am starting a Thesis focusing on Music Information Retrieval (Genre Classification) with Dr. Anil Venkatesh (Associate Professor, Adelphi University) in January 2022.
+- Over the summer, I worked with Dr. Qin (Associate Professor, UTC) on a [COVID-19 cointegration analysis project](https://github.com/torrwill/COVID19-Cointegration), as a part of a Research Experience for Undergraduates (REU) program.
+- Supervised by Dr. Carl Giuffre (Associate Professor, Adelphi University) I created a [2D agent-based model simulating honeybee overwintering](https://github.com/torrwill/ABM-Honey-Bee-Overwintering).
+
+## Personal Projects
+- During a hackathon, I developed a [mobile application to help anxiety](https://github.com/torrwill/Take10)
+- I [used Python to explore Machine Learning](https://github.com/torrwill/KNN-Genre-Classifier).
 
 ## My Interests
 - Software Engineering :desktop_computer:
