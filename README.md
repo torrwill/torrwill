@@ -7,7 +7,7 @@ I am a 4th year undergraduate Computer Science student at Adelphi University wit
 ## How to Reach Me:
 LinkedIn: [torreswill](https://www.linkedin.com/in/torreswill)
 
-Instagram: @torrwill
+Instagram: [@torrwill](https://www.instagram.com/torrwill/)
 
 My Resume(s): [Data Science](https://github.com/torrwill/torrwill/blob/main/resume/Will%20Torres%2C%20Resume.pdf) 
 | [Software Engineering](https://github.com/torrwill/torrwill/blob/main/resume/Will%20Torres%20Resume.pdf) | [CV](https://github.com/torrwill/torrwill/blob/main/resume/Will-Torres-CV.pdf) *(Last Updated -- 01/24/22)*
