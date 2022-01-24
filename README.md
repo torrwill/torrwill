@@ -10,10 +10,10 @@ LinkedIn: [torreswill](https://www.linkedin.com/in/torreswill)
 Instagram: @torrwill
 
 My Resume(s): [Data Science](https://github.com/torrwill/torrwill/blob/main/resume/Will%20Torres%2C%20Resume.pdf) 
-| [Software Engineering](https://github.com/torrwill/torrwill/blob/main/resume/Will%20Torres%20Resume.pdf) | [CV](https://github.com/torrwill/torrwill/blob/main/resume/Will-Torres-CV.pdf) *(Last Updated -- 01/16/22)*
+| [Software Engineering](https://github.com/torrwill/torrwill/blob/main/resume/Will%20Torres%20Resume.pdf) | [CV](https://github.com/torrwill/torrwill/blob/main/resume/Will-Torres-CV.pdf) *(Last Updated -- 01/24/22)*
 
 ## Research Projects
-- I am starting a Thesis focusing on Music Information Retrieval (Genre Classification) with Dr. Anil Venkatesh (Associate Professor, Adelphi University) in January 2022.
+- I am starting a Thesis focusing on Music Information Retrieval with Dr. Anil Venkatesh (Associate Professor, Adelphi University) in January 2022.
 - Over the summer, I worked with Dr. Hong Qin (Associate Professor, UTC) on a [COVID-19 cointegration analysis project](https://github.com/torrwill/COVID19-Cointegration), as a part of a Research Experience for Undergraduates (REU) program.
 - Supervised by Dr. Carl Giuffre (Associate Professor, Adelphi University) I created a [2D agent-based model simulating honeybee overwintering](https://github.com/torrwill/ABM-Honey-Bee-Overwintering).
 
