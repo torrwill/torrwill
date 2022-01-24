@@ -18,7 +18,8 @@ My Resume(s): [Data Science](https://github.com/torrwill/torrwill/blob/main/resu
 - Supervised by Dr. Carl Giuffre (Associate Professor, Adelphi University) I created a [2D agent-based model simulating honeybee overwintering](https://github.com/torrwill/ABM-Honey-Bee-Overwintering).
 
 ## Personal Projects
-- During a hackathon, I developed a [mobile application to help anxiety](https://github.com/torrwill/Take10)
+- Worked on the frontend a [social networking platform for musicians](https://github.com/torrwill/GigFindr-Software-Eng) for a Software Engineering final.
+- During a hackathon, I developed a [mobile application to help anxiety](https://github.com/torrwill/Take10).
 - I used Python to explore [Machine Learning](https://github.com/torrwill/KNN-Genre-Classifier).
 
 ## My Interests
@@ -30,5 +31,5 @@ My Resume(s): [Data Science](https://github.com/torrwill/torrwill/blob/main/resu
 - I am a multi-instrumentalist :guitar: :drum: :musical_keyboard:
 - I am an amateur film maker :movie_camera:
 - I tutor college students Python, Java, C/C++, R, and Web Development :man_teacher:
-- I tutor K-12 in Statistics, Calculus I, Discrete Math, and SAT Prep :man_teacher:
+- I tutor K-12 in Statistics, Calculus I & II, Discrete Math, NYS Regents/SAT Prep :man_teacher:
 - I love soup :) :bowl_with_spoon:
