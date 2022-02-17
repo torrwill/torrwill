@@ -9,8 +9,7 @@ LinkedIn: [torreswill](https://www.linkedin.com/in/torreswill)
 
 Instagram: [@torrwill](https://www.instagram.com/torrwill/)
 
-My Resume(s): [Data Science](https://github.com/torrwill/torrwill/blob/main/resume/Will%20Torres%2C%20Resume.pdf) 
-| [Software Engineering](https://github.com/torrwill/torrwill/blob/main/resume/Will%20Torres%20Resume.pdf) | [CV](https://github.com/torrwill/torrwill/blob/main/resume/Will-Torres-CV.pdf) *(Last Updated -- 01/24/22)*
+My Resume(s): ![Data Science](/resume/Will Torres, Resume.pdf) | ![Software Engineering](/resume/Will-Torres-Resume.pdf) | ![CV](/resume/Will-Torres-CV.pdf) *(Last Updated -- 02/17/22)*
 
 ## Research Projects
 - I am starting a Thesis focusing on Music Information Retrieval with Dr. Anil Venkatesh (Associate Professor, Adelphi University) in January 2022.
