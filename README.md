@@ -26,7 +26,7 @@ My Resume(s): [Data Science](https://github.com/torrwill/torrwill/blob/main/resu
 - Data Science :chart:
 
 ## Fun Facts: 
-- I am the unclean vocalist for Doxey, a post-hardcore band, and the rhythm guitarist for, Camelcase, a math rock/emo band. I also play drums and piano recreationally. :guitar: :drum: :musical_keyboard:
+- I am the unclean vocalist for Doxey, a hardcore band, and the rhythm guitarist for, camelCase, a math rock/emo band. I also play drums and piano recreationally. :guitar: :drum: :musical_keyboard:
 - I am an amateur film maker and video editor, currently working on short horror and psychological thrillers. :movie_camera:
 - I tutor both college students and high schoolers in mathematics, introductory computer science topics, and help with exam preparation (SAT, NYS Regents). :man_teacher:
 - I love soup :) :bowl_with_spoon:
