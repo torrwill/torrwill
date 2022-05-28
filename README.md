@@ -18,7 +18,7 @@ const torrwill = {
             js: ["React", "Angular"],
             css: ["Bootstrap", "SASS", "Tailwild"],
             python: ["Django", "Flask"],
-        }
+        },
         
         backEnd: {
             js: ["Node", "Express"],
