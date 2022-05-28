@@ -3,7 +3,7 @@
 My name is Will Torres. My background is rooted in machine learning and data analysis research, but I am an aspiring software engineer. I am comfortable with front-end or back-end development.
 
 # How to Reach Me:
-LinkedIn: [torreswill](https://www.linkedin.com/in/torreswill)
+LinkedIn: [torreswill](https://www.linkedin.com/in/torreswill) |
 Instagram: [@torrwill](https://www.instagram.com/torrwill/)
 
 # More About Me
