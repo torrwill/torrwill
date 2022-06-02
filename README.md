@@ -1,12 +1,14 @@
 # Howdy! :cowboy_hat_face:
 
-My name is Will Torres. My background is rooted in machine learning and data analysis research, but I am an aspiring software engineer. I am comfortable with front-end or back-end development.
+:computer: I am in search of a Junior Dev / Intern position!
 
-# How to Reach Me:
-LinkedIn: [torreswill](https://www.linkedin.com/in/torreswill) |
-Instagram: [@torrwill](https://www.instagram.com/torrwill/)
+:books: B.S. in Computer Science from Adelphi University, concentration in Software Engineering.
 
-# More About Me
+:musical_score: I am a self-taught guitarist, bassist, and percussionist.
+
+:speech_balloon: LinkedIn: [torreswill](https://www.linkedin.com/in/torreswill) :thought_balloon: Instagram: [@torrwill](https://www.instagram.com/torrwill/)
+
+## More About Me
 ```javascript
 const torrwill = {
     
