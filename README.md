@@ -13,7 +13,6 @@
 const torrwill = {
     
     pronouns: "He" | "Him",
-    code: ["HTML/CSS", "Javascript", "Python", "Java", "PHP", "SQL"],
     
     technologies: {        
         frontEnd: {
@@ -28,7 +27,7 @@ const torrwill = {
         },
         
         devOps: ["AWS", "GCP", "Docker", "Nginx", "Route53", "Cloud DNS", "Git"],
-        databases: ["MongoDB", "MySQL", "SQLite", "Firebase"],
+        databases: ["MySQL", "NoSQL", "PostgreSQL","MongoDB", "Firebase"],
         machineLearning: ["SKLearn", "Keras", "Tensorflow", "NumPy", "Keras", "Seaborn", "R"]
     },
 };
