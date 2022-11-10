@@ -1,34 +1,9 @@
-# Howdy! :cowboy_hat_face:
+# Howdy! 🤠
 
-:computer: I am in search of a Junior Dev / Intern position!
+💻 I am in search of a entry-level data science / machine learning engineer position!
 
-:books: B.S. in Computer Science from Adelphi University, concentration in Software Engineering.
+📚 M.S. in Applied Math and Data Science '24, B.S. in Computer Science '22 from Adelphi University.
 
-:musical_score: I am a self-taught guitarist, bassist, and percussionist.
+🎼 I am a self-taught guitarist, bassist, and percussionist.
 
-:speech_balloon: LinkedIn: [torreswill](https://www.linkedin.com/in/torreswill) :thought_balloon: Instagram: [@torrwill](https://www.instagram.com/torrwill/)
-
-## More About Me
-```javascript
-const torrwill = {
-    
-    pronouns: "He" | "Him",
-    
-    technologies: {        
-        frontEnd: {
-            js: ["React", "Angular"],
-            css: ["Bootstrap", "SASS", "Tailwild"],
-            python: ["Django", "Flask"],
-        },
-        
-        backEnd: {
-            js: ["Node", "Express"],
-            java: ["Spring", "Maven", "Gradle"]
-        },
-        
-        devOps: ["AWS", "GCP", "Docker", "Nginx", "Route53", "Cloud DNS", "Git"],
-        databases: ["MySQL", "NoSQL", "PostgreSQL","MongoDB", "Firebase"],
-        machineLearning: ["SKLearn", "Keras", "Tensorflow", "NumPy", "Keras", "Seaborn", "R"]
-    },
-};
-```
+💬 LinkedIn: [torreswill](https://www.linkedin.com/in/torreswill) 💭 Instagram: [@torrwill](https://www.instagram.com/torrwill/)
