@@ -1,9 +1,16 @@
 # Howdy! 🤠
 
-💻 I am in search of a entry-level data science / machine learning engineer position!
+My name is Will Torres. I am pursuing an M.S. in Bioinformatics '24 at NYU and hold a B.S. in Computer Science '22 from Adelphi University.  
+I try to solve complex data tasks in computational biology/bioinformatics and _develop web applications for fun_. Here is what I use:
 
-📚 M.S. in Bioinformatics '24 from NYU, B.S. in Computer Science '22 from Adelphi University.
+💻 Python, SQL, Java, C++.  
+🧰 Scikit-Learn, TensorFlow, Matplotlib, Seaborn, XGBoost, LightGBM, Pandas, NumPy.  
+☁️ Docker, Kubernetes, GCP, AWS Lambda.  
+🎨 _JavaScript, React, Node.js, Express.js, MongoDB, Django, Flask, REST APIs._
 
-🎼 I am a self-taught guitarist, bassist, and percussionist.
+Fun Facts:  
+🎼 I am a self-taught guitarist and percussionist.  
+🎳 My best bowling game was 225.  
+🥕 I grew a carrot once!
 
-💬 LinkedIn: [torreswill](https://www.linkedin.com/in/torreswill) 💭 Instagram: [@torrwill](https://www.instagram.com/torrwill/)
+💬 Feel free to connect with me on LinkedIn: [torreswill](https://www.linkedin.com/in/torreswill)
