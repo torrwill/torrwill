@@ -15,4 +15,4 @@ Fun Facts:
 
 💬 Feel free to connect with me on LinkedIn: [torreswill](https://www.linkedin.com/in/torreswill)
 
-_Note: I am currently recofiguring my github repositories to better reflect my abilities._
+_Note: I am currently reconfiguring my github repositories to better reflect my abilities._
