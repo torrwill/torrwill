@@ -1,11 +1,11 @@
 # Howdy! 🤠
 
-My name is Will Torres. I am pursuing an M.S. in Bioinformatics '24 at NYU and hold a B.S. in Computer Science '22 from Adelphi University.    
-I try to solve complex data tasks in computational biology/bioinformatics and _develop web applications_ for fun. Here is what I use:
+My name is Will Torres. I am pursuing an M.S. in Bioinformatics '24 at NYU and hold a B.S. in Computer Science '22 from Adelphi University.
 
-💻 Python, SQL, Java, C++.  
-🧰 Scikit-Learn, TensorFlow, Matplotlib, Seaborn, XGBoost, LightGBM, Pandas, NumPy.  
-☁️ Docker, Kubernetes, GCP, AWS Lambda.  
+I try to solve complex data tasks in computational biology/bioinformatics and _develop web applications_ for fun. Here is what I use:  
+💻 Python, R, SQL, Java, C++.  
+🧰 BioPython/Bioconductor, Scikit-Learn, TensorFlow, Matplotlib, Seaborn, XGBoost, Pandas, NumPy.  
+☁️ Docker, Kubernetes, GCP (BigQuery, Datalab), AWS (S3, ECS, EC2, Lambda), Spark.  
 🎨 _JavaScript, React, Node.js, Express.js, MongoDB, Django, Flask, REST APIs._
 
 Fun Facts:  
