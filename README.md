@@ -1,8 +1,9 @@
 # Howdy! 👋
 
 My name is Will Torres.  
-Pursuing Data Science M.S. at Pace University '25.  
-Hold a Computer Science B.S. from Adelphi University '22.
+
+I am pursuing a Data Science M.S. at Pace University '25.  
+I hold a Computer Science B.S. from Adelphi University '22.
 
 I try to solve complex data tasks in computational biology/bioinformatics and _develop web applications_ for fun. Here is what I use:  
 💻 Python, R, SQL, Java, C++.  
