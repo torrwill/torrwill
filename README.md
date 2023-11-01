@@ -1,4 +1,4 @@
-# Howdy! 🤠
+# Howdy! 👋
 
 My name is Will Torres.  
 Pursuing Data Science M.S. at Pace University '25.  
