@@ -39,7 +39,7 @@ I'm pursuing an M.S. in Data Science at Pace University (Class of 2026). I am pa
 ## Experience Highlights  
 
 - **Data Analyst Intern** at WilkinGuttenplan (May 2024 – Present)  
-  Automated data pipelines for financial metrics, reducing manual processing by 30%, and built real-time dashboards using Panel and Plotly for decision-making.
+  Automated data pipelines for financial metrics, reducing manual processing by 30%, and built real-time dashboards using JavaScript (React, D3) for decision-making.
 
 - **Business Intelligence Analyst** at Fragrance.com (Oct 2022 – Jun 2023)  
   Developed Power BI dashboards and implemented a linear regression model to track warehouse productivity, driving operational efficiency across multiple locations.
