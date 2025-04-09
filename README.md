@@ -2,7 +2,7 @@
 
 I'm pursuing an M.S. in Data Science at Pace University (Class of 2026). I am passionate about deriving actionable insights from data and occasionally dabble in web application development.
 
-> _Note: I'm revamping my GitHub to better showcase my latest projects and skills._
+> _Note: I'm revamping my GitHub to showcase my latest projects and skills better._
 
 ## Skillset
 
@@ -42,10 +42,10 @@ I'm pursuing an M.S. in Data Science at Pace University (Class of 2026). I am pa
   Automated data pipelines for financial metrics, reducing manual processing by 30%, and built real-time dashboards using JavaScript (React, D3) for decision-making.
 
 - **Business Intelligence Analyst** at Fragrance.com (Oct 2022 – Jun 2023)  
-  Developed Power BI dashboards and implemented a linear regression model to track warehouse productivity, driving operational efficiency across multiple locations.
+  Developed predictive machine learning models using scikit-learn, resulting in a 15% increase in customer retention and a projected $200,000 increase in annual revenue through targeted coupon retargeting.
 
 - **Data Science Intern** at The University of Tennessee at Chattanooga (May 2022 – Jul 2022)  
-  Applied SVMs for gait pattern identification, optimized PySpark data workflows, and orchestrated ETL pipelines with Apache Airflow for research and data analysis.
+   Orchestrated high-performance computing workflows (GCP Batch, Python, SQL), handling 500+ GB of biological and wearable sensor data daily and reducing simulation runtime from 7 days to 48 hours.
 
 ## Fun Facts  
 - Self-taught guitarist and percussionist.  
